@@ -9,4 +9,7 @@ public class GItTest {
         System.out.println("git 练习;");
         System.out.println("git 练习;");
     }
+    public void test1() {
+        System.out.println("");
+    }
 }
