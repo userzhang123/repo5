@@ -10,6 +10,10 @@ public class GItTest {
         System.out.println("git 练习;");
     }
     public void test1() {
-        System.out.println("");
+        System.out.println("练习222222222222222222222222");
+    }
+
+    public void test2() {
+        System.out.println("练习333333333333333333333333");
     }
 }
